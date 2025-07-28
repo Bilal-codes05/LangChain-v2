@@ -6,13 +6,16 @@ name = "pypi"
 [packages]
 jupyter = "*"
 ipykernel = "*"
+sse-starlette = "*"
+langchain-core = "*"
+transformers = "*"
+streamlit = "*"
 fastapi = "*"
+uvicorn = "*"
 langserve = "*"
 langchain = "*"
-langchain-core = "*"
 langchain-groq = "*"
-uvicorn = "*"
-sse-starlette = "*"
+python-dotenv = "*"
 
 [dev-packages]
 
